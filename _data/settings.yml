@@ -81,9 +81,10 @@ mailchimp:
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com/balletrealty"}
-- {icon: "ion-logo-facebook", color: "#3b5999", label: Facebook, link: "https://www.facebook.com/balletrealestate"}
 - {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://www.instagram.com/balletrealestate"}
+- {icon: "ion-logo-linkedin", color: "#0e76a8", label: LinkedIn, link: "https://www.linkedin.com/company/ballet-real-estate"}
+- {icon: "ion-logo-facebook", color: "#3b5999", label: Facebook, link: "https://www.facebook.com/balletrealestate"}
+- {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com/balletrealty"}
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/

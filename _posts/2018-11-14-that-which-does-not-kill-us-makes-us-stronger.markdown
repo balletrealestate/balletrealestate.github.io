@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  That which does not kill us makes us stronger
+handle: 1701 Trumbull
 date:   2018-11-14 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [workflow, hobby, study]
