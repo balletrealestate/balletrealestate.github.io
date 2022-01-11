@@ -25,7 +25,9 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Ballet Real Estate
-  hero__description: We are a boutique real estate developer, property manager and neighbor in Corktown, Detroit.
+  hero__description: We are a boutique real estate developer, property manager and neighbor in Corktown, Detroit. We develop and manage buildings that bring city sidewalks to life so that neighbors, visitors and entrepreneurs flourish.
+  hero__quote: The art form of the city sidewalk is an intricate ballet in which the individual dancers and ensembles all have distinctive parts which miraculously reinforce each other and compose an orderly whole.
+  hero__quote_author: Jane Jacobs
 
 #-------------------------------
 # Portfolio Settings
