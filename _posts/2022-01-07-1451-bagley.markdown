@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Shared office space & retail
+title: Shared office space and retail
 handle: 1451 Bagley
 date:   2022-01-07 10:48:48 +0500
 image:  '/images/1451-bagley.png'
 tags:   [office, retail]
+menu: Properties
 ---
