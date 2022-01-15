@@ -41,4 +41,4 @@ menu: Properties
 [![Download the Investment Profile]({{ site.url }}/images/1451BagleyProfileThumbnail.png "Investment Profile")]({{ site.url }}/assets/1451BagleyProfile.pdf)  
 [Download the Investment Profile]({{ site.url }}/assets/1451BagleyProfile.pdf). 
 
-Please let us know if you have any interest in discussing this opportunity further, and we'd be happy to get on the phone to review in more detail.
+Please let us know if you have any interest in discussing this opportunity further [hello@balletrealestate.com](mailto:hello@balletrealestate.com).
