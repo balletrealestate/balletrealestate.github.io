@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Shared office space and retail at 1451 Bagley Corktown, Detroit
+title: "Investment Opportunity: 1451 Bagley historic redevelopment plus new addition"
+description: We are fundraising for a historic redevelopment and new addition of a mixed-use retail and office building in Corktown.
 handle: "1451 Bagley"
 date:   2022-01-07 10:48:48 +0500
 image:  '/images/1451-bagley.png'
