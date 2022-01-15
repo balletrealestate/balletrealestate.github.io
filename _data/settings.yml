@@ -72,7 +72,7 @@ portfolio:
 #-------------------------------
 # Subscribe Settings
 mailchimp:
-  mailchimp__title: Get project updates # Add your Title
+  mailchimp__title: Get development updates # Add your Title
   mailchimp__identifier: "https://balletrealestate.us20.list-manage.com/subscribe/post?u=222a5f53d48045d43f6467e79&amp;id=33a44edbf3"
   mailchimp__button__text: Subscribe # Add your button text.
   mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
