@@ -12,8 +12,6 @@ menu: Properties
 
 1451 Bagley in Detroit is a new [Opportunity Zone](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment opportunity. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.619041247607!2d-83.06714614835512!3d42.32932357908683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b2d45b2884165%3A0x33e6938efdfe5323!2s1451%20Bagley%20St%2C%20Detroit%2C%20MI%2048216!5e0!3m2!1sen!2sus!4v1642270053619!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-<br>
 * **Location**:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
 
 * **Business Plan**:
