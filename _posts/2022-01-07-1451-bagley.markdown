@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "// Investment opportunity // 1451 Bagley: historic renovation plus new addition"
+title: "Investment opportunity at 1451 Bagley: historic renovation plus new addition"
 description: We are currently (Q1 2022) raising funds for the redevelopment and expansion of an 1860s building into a mixed-use retail and office destination.
 handle: "1451 Bagley"
 date:   2022-01-07 10:48:48 +0500
@@ -38,8 +38,10 @@ menu: Properties
 * **Opportunity Zone Eligibility**:
 	* We plan to set up the entities in 2021 so that anyone with 2021 capital gains has the opportunity to take advantage of this year's Opportunity Zone benefits
 	* Closing will take place in Q1 2022, so 2022 capital gains will also be eligible
-	
+
+## Additional Information
+
 [![Download the Investment Profile]({{ site.url }}/images/1451BagleyProfileThumbnail.png "Investment Profile")]({{ site.url }}/assets/1451BagleyProfile.pdf)  
 [Download the Investment Profile]({{ site.url }}/assets/1451BagleyProfile.pdf). 
 
-Please let us know if you have any interest in discussing this opportunity further [hello@balletrealestate.com](mailto:hello@balletrealestate.com).
+Please contact us if you want to invest [hello@balletrealestate.com](mailto:hello@balletrealestate.com).
