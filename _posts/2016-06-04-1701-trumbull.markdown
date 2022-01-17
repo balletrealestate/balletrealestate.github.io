@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "1701 Trumbull"
-description: "Completed in 2016, our historic renovation of an 1870s building created two retail units and two residential apartments"
+title: "1701 Trumbull: historic renovation of an 1870s beauty"
+description: "Developed in 2016, our historic renovation of an 1870s building created two retail units on the first floor with residential apartments on the second and third floors."
 handle: "1701 Trumbull"
 date:   2016-11-15 16:48:48 +0500
 image:  '/images/1701-trumbull.png'

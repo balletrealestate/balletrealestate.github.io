@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "1512 Bagley"
-description: "Our new infill construction of a modern two story building created a retail unit with a residential apartment above in 2016"
+title: "1512 Bagley: new retail and residential infill construction"
+description: "Completed in 2021, our modern two story building brought a new boutique retail spot to the first floor with an airy residential apartment above."
 handle: "1512 Bagley"
 date:   2021-03-12 16:48:48 +0500
 image:  '/images/1512-bagley.png'
