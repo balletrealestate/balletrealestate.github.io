@@ -13,8 +13,10 @@ menu__settings:
       url: '/'
     - title: 'Properties'
       url: '/properties/'
-    - title: 'About'
-      url: '/about/'
+#    - title: 'Art'
+#      url: '/portfolio/'
+#    - title: 'In The News'
+#      url: '/press/'
     - title: 'Contact'
       url: '/contact/'
 
