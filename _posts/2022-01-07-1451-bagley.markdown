@@ -18,15 +18,102 @@ This investment is illiquid and only those persons who are able and willing to r
 
 # Investment Opportunity
 
-1451 Bagley in Detroit is a new [Opportunity Zone](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment opportunity. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
+1451 Bagley in Detroit is a new [Opportunity Zone (OZ)](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
-## Business Plan
-* Location:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
+## Project Overview
+Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a sturdy brick building constructed in the 1860s.
+
+### Planned Improvements
 * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
 * Subdivide into 4 small retail bays on the 1st floor and 11 private office suites on the 2nd floor
 * Take advantage of changing work trends by marketing affordable private offices toward local "remote-eligible" workers and small business owners looking for office space close to home
 
-## Projected Returns on $100,000 Investment
+![1451 Bagley Bagley Block](/images/1451-bagley-bagley-block.png "1451 Bagley Bagley Block")
+
+### Property Information
+* Location:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
+* Year Built: 1860s
+* Style: Two Story Historic Masonry
+* Units: 
+     * Current: 3 Retail, 1 Unrenovated Commercial
+	 * After Improvements: 4 Retail, 11 Office
+* SF: 
+     * Current: 2,918 SF 
+	 * After Improvements: 5,320 SF
+* Zoning: R3 (Low Density Residential)
+* Parking: Street
+
+![1451 Bagley Trumbull Block](/images/1451-bagley-trumbull-block.png "1451 Bagley Trumbull Block")
+
+## Capital Structure
+* We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan
+
+### Sources
+
+<div class="table-container">
+<table>
+<tr><th>Type</th><th>Percent</th><th>Amount</th><th>Per SF</th></tr>
+<tr><td>Debt</td><td>0%</td><td>$0</td><td>$0 /sf</td></tr>
+<tr><td>Equity</td><td>100%</td><td>$1,450,000</td><td>$272.56 / sf</td></tr>
+<tr><th>Total Sources</th><th>100%</th><th>$1,450,000</th><th>$272.56 / sf</th></tr>
+</table>
+</div>
+
+### Uses
+
+<div class="table-container">
+<table>
+<tr><th>Use</th><th>Amount</th><th>Per SF</th></tr>
+<tr><td>Acquisition</td><td>$512,000</td><td>$175.46 / sf unimproved</td></tr>
+<tr><td>Due Diligence</td><td>$15,000</td><td>$5.14 / sf unimproved</td></tr>
+<tr><td>Renovation</td><td>$800,000</td><td>$150.38 / sf</td></tr>
+<tr><td>Soft Costs</td><td>$123,000</td><td>$23.12 / sf</td></tr>
+<tr><th>Total Uses</th><th>$1,450,000</th><th>$272.56 / sf</th></tr>
+</table>
+</div>
+
+## Equity
+
+* Equity investors will be members of Ballpoint Bagley QOF LLC.
+* Ballpoint Partners LLC will manage the company and oversee management of the property. Ballpoint Partners LLC is associated with:
+     * Devon Caldwell and Ryan Zampardo of Inkwell Partners 
+	 * Brian Mulloy of Ballet Real Estate
+* Ballpoint Bagley QOF LLC will allocate equity to Ballpoint Bagley LLC for the purchase and improvements of 1451 Bagley.
+
+### Fees / Promote Structure
+* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
+* The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)	
+
+### Organizational Chart
+
+![Organizational Chart](/images/org-chart.png)
+
+## Summary Return Projections
+
+* Refinance the project two years after stabilization
+* Hold the building for 10+ years to take advantage of Opportunity Zone benefits
+
+### 10 Year Projected Returns - Project Level
+
+<div class="table-container">
+  <table>
+    <tr><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th><th>Year 7</th><th>Year 8</th><th>Year 9</th><th>Year 10</th></tr>
+    <tr><td>Investment Basis</td><td>$1,450,000</td><td>$1,450,000</td><td>$1,450,000</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td></tr>
+    <tr><td>Distributions from Operations</td><td>-</td><td>$27,779</td><td>$27,928</td><td>$29,624</td><td>$34,605</td><td>$36,416</td><td>$38,286</td><td>$43,747</td><td>$45,743</td><td>$47,805</td></tr>
+    <tr><td>Proceeds from Refi</td><td>-</td><td>-</td><td>$984,775</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+    <tr><td>Proceeds from Sale</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>$1,236,313</td></tr>
+    <tr><td>Ending Investment Balance</td><td>$1,450,000</td><td>$1,450,000</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>-</td></tr>
+    <tr><td>Cash Flow</td><td>($1,450,000)</td><td>$27,779</td><td>$1,012,703</td><td>$29,624</td><td>$34,605</td><td>$36,416</td><td>$38,286</td><td>$43,747</td><td>$45,743</td><td>$1,284,118</td></tr>
+	<tr><td>$</td><td>$69,842</td><td>$2,043</td><td>$2,387</td><td>$2,511</td><td>$2,640</td><td>$3,017</td><td>$3,155</td><td>$88,560</td></tr>
+    <tr><td>Cash on Cash Returns (Operations)</td><td></td><td>1.9%</td><td>6.0%</td><td>6.4%</td><td>7.4%</td><td>7.8%</td><td>8.2%</td><td>9.4%</td><td>9.8%</td><td>10.3%</td></tr>
+    <tr><td>IRR</td><td>11.4%</td></tr>
+    <tr><td>Equity Multiple</td><td>1.76x</td></tr>
+  </table>
+</div>
+
+<br><br>
+
+### 10 Year Projected Returns on $100,000 Investment
 
 <div class="table-container">
   <table>
@@ -43,40 +130,126 @@ This investment is illiquid and only those persons who are able and willing to r
   </table>
 </div>
 
-<br>
+<br><br>
+
+## Opportunity Zone
+* Closing will take place in Q1 2022, so 2022 capital gains will be eligible for Opportunity Zone benefits
+
+### About Opportunity Zones
+Want to learn more about Opportunity Zones? Below are a few resources from the web.
+
+#### [As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5) from Forbes
+[![As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever]({{ site.url }}/images/forbes-oz.png)](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5)
+<br><br>
+#### [Tax Benefits Of Opportunity Zone Investment](https://www.rocketmortgage.com/learn/opportunity-zones-tax-benefits) from Rocket Mortgage
+[![Tax Benefits Of Opportunity Zone Investment]({{ site.url }}/images/rocket-mortgage-oz.png "Tax Benefits of Opportunity Zone Investment")](https://www.rocketmortgage.com/learn/opportunity-zones-tax-benefits)
+<br><br>
+#### [Opportunity Zones Frequently Asked Questions](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions) from the IRS
+[![Opportunity Zones Frequently Asked Questions]({{ site.url }}/images/irs-oz-faq.png)](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions)
+
+## Location
+
+### City of Detroit
+
+#### Top 10 Private Employers
+1. General Motors Co. HQ
+1. Henry Ford Health System
+1. Illitch Companies HQ
+     * Little Caesars Pizza
+1. Rock Ventures HQ
+     * Rocket Mortgage
+1. Detroit Medical Center
+     * Part of Tenet Healthcare
+1. Blue Cross Blue Shield of Michigan HQ
+1. DTE Energy HQ
+1. Ally Financial HQ
+1. Comerica Bank
+1. Huntington Bank HQ
+     * Dual HQ in Detroit and Columbus, OH
+
+#### Cost of Living
+* 12.4% below national average
+
+#### Population
+* 640,000 in the City of Detroit
+     * 27th in USA 
+* 4.4MM in the Detroit MSA 
+     * 14th in USA
+     * Grew 2.23% from 2010 to 2020
+
+#### Fun Facts
+* Detroit is the first and only [UNESCO City of Design](https://www.architecturaldigest.com/story/detroit-unesco-city-of-design) in the USA
+* Detroit is the oldest inland metropolis in North America founded by King Louis XIV of France in 1701
+* Detroit is the only city in the USA where the four major professional sports teams play in the downtown core
+* Detroit has the second largest theater district in the USA with more than 13,000 theater seats
+* Michigan has the most lighthouses of any state in the USA and the second longest coast
+
+### Corktown Neighborhood
+
+With an eclectic mix of historic Victorian homes, Michigan Central Depot and new architecture, Corktown has been a magnet for talented restaurateurs, entrepreneurs and makers. The dining and drinking scene makes Corktown a destination neighborhood for visitors and residents alike.
+
+#### Top 10 Eats
+1. [Folk Cafe](https://www.folkdetroit.com/)
+1. [Mink Oyster Bar](https://www.minkdetroit.com/)
+1. [Ima](https://imanoodles.com/)
+1. [Takoi](https://takoidetroit.com/)
+1. [Supergeil](https://supergeildetroit.com/)
+1. [Slow's BBQ](https://slowsbarbq.com/)
+1. [James Oliver](https://www.jamesolivercoffee.com/)
+1. [Green Dot Stables](https://www.greendotstables.com/)
+1. [Ottava Via](https://www.ottavaviadetroit.com/)
+1. [Mudgie's](http://mudgiesdeli.com/)
+
+#### Top 10 Drinks
+1. [Batch Brewing Company](https://www.batchbrewingcompany.com/)
+1. [Two James Distillery](https://twojames.com/)
+1. [Motor City Wines](http://motorcitywine.com/)
+1. [Sugar House](https://sugarhousedetroit.com/)
+1. [PJ's Lager House](https://pjslagerhouse.com/)
+1. [Nemo's](https://nemosdetroit.com/)
+1. [Nancy Whiskey](https://www.facebook.com/NancyWhiskeyPub/)
+1. [McShane's Pub](http://mcshanespub.com/)
+1. [LJ's Lounge](https://www.facebook.com/LjsLounge/)
+1. [Cork & Gabel](https://www.corkandgabel.com/)
+
+#### Top 10 Shops & Services
+1. [Mama Coo's](https://www.instagram.com/mamacoosboutique)
+1. [Spectacle Society](https://spectaclesocietydetroit.com/)
+1. [The Bearded Lady](https://www.thebeardedladydetroit.com/)
+1. [Meta Physica Wellness Center](http://www.metaphysicamassage.com/)
+1. [Skinphorea](https://skinphorea.com/)
+1. [Social Tykes](https://socialtykes.com/)
+1. [Eldorado General Store](https://www.eldoradogeneralstore.com/)
+1. [George Gregory](https://shopgeorgegregory.com/)
+1. [Brightly Twisted](https://www.brightlytwistedtiedye.com/)
+1. [Detroit Barbers](https://detroitbarbers.com/)
+
+### Location within Metro Detroit
+
+![Metro Detroit Map](/images/detroit-metro-map.png "Metro Detroit Map")
+
+### Location within Detroit
+
+![Detroit Map](/images/detroit-map.png "Detroit Map")
+
+### Transportation Access within Detroit
+
+![Detroit Freeway Map](/images/detroit-freeway-map.png "Detroit Freeway Map")
+
+### Location within Corktown
+
+![Corktown Map](/images/corktown-map.png "Corktown Map")
 
 ## Partner
 
 ### [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
 
+![Inkwell Partners Logo](/images/logo-inkwell.png "Inkwell Partners")
+
 * Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
 * Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
 * Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
 * Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
-
-## Organizational Chart
-
-![Organizational Chart](/images/org-chart.png)
-
-## Capital Structure
-* We plan to raise the entire $1.45m via Opportunity Zone equity (or other non-OZ equity looking to ride alongside the OZ business plan)
-* Refinance the project a couple years later upon stabilization
-* Hold the building for 10+ years to take advantage of Opportunity Zone benefits
-
-## Fees / Promote Structure
-* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
-* The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)
-	
-## Opportunity Zone Eligibility
-* Closing will take place in Q1 2022, so 2022 capital gains will be eligible
-
-Want to learn more about Opportunity Zones?
-<br>
-Here are some resources from the web:
-
-* [Tax Benefits Of Opportunity Zone Investment](https://www.rocketmortgage.com/learn/opportunity-zones-tax-benefits) from Rocket Mortgage
-* [As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5) from Forbes
-* [Opportunity Zones Frequently Asked Questions](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions) from the IRS
 
 ## Additional Information
 
