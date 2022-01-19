@@ -54,6 +54,10 @@ This investment is illiquid and only those persons who are able and willing to r
 	* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
 	* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
 
+## Organizational Chart
+
+![Organizational Chart](/images/org-chart.png)
+
 * **Capital Structure**:
 	* We plan to raise the entire $1.45m via Opportunity Zone equity (or other non-OZ equity looking to ride alongside the OZ business plan)
 	* Refinance the project a couple years later upon stabilization
