@@ -16,12 +16,16 @@ The Manager in no way guarantees the projections contained herein. Real estate v
 
 This investment is illiquid and only those persons who are able and willing to risk their entire investment should participate. Please consult your attorney, CPA and professional financial advisor regarding the suitability of an investment by you.
 
+![1451 Bagley 1](/images/1451-bagley-1.png "1451 Bagley 1")
+
 # Investment Opportunity
 
 1451 Bagley in Detroit is a new [Opportunity Zone (OZ)](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
 ## Project Overview
 Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building constructed in the 1860s.
+
+![1451 Bagley 6](/images/1451-bagley-6.png "1451 Bagley 6")
 
 ### Planned Improvements
 * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
@@ -59,6 +63,8 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building c
 </table>
 </div>
 
+![1451 Bagley 7](/images/1451-bagley-7.png "1451 Bagley 7")
+
 ### Uses
 
 <div class="table-container">
@@ -79,6 +85,8 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building c
      * Devon Caldwell and Ryan Zampardo of Inkwell Partners 
 	 * Brian Mulloy of Ballet Real Estate
 * Ballpoint Bagley QOF LLC will allocate equity to Ballpoint Bagley LLC for the purchase and improvements of 1451 Bagley.
+
+![1451 Bagley 10](/images/1451-bagley-10.png "1451 Bagley 10")
 
 ### Fees / Promote Structure
 * Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
@@ -111,7 +119,9 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building c
   </table>
 </div>
 
-<br><br>
+<br>
+![1451 Bagley 2](/images/1451-bagley-2.png "1451 Bagley 2")
+<br>
 
 ### 10 Year Projected Returns on $100,000 Investment
 
@@ -153,25 +163,26 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 
 #### Top 10 Private Employers
 1. General Motors Co. HQ
-     ![GM HQ]({{ site.url }}/images/gm-hq.png "GM HQ")
+![GM HQ]({{ site.url }}/images/gm-hq.png "GM HQ")
 1. Henry Ford Health System
 1. Illitch Companies HQ
      * Little Caesars Pizza
-	 ![Little Caesars HQ]({{ site.url }}/images/little-caesars-hq.png "Little Caesars HQ")
+![Little Caesars HQ]({{ site.url }}/images/little-caesars-hq.png "Little Caesars HQ")
 1. Rock Ventures HQ
      * Rocket Mortgage
-	 ![Rocket Mortgage HQ]({{ site.url }}/images/rocket-mortgage-hq.png "Rocket Mortgage HQ")
+![Rocket Mortgage HQ]({{ site.url }}/images/rocket-mortgage-hq.png "Rocket Mortgage HQ")
 1. Detroit Medical Center
      * Part of Tenet Healthcare
 1. Blue Cross Blue Shield of Michigan HQ
 1. DTE Energy HQ
 1. Ally Financial HQ
-	 ![Ally Financial HQ]({{ site.url }}/images/ally-financial-hq.png "Ally Financial HQ")
+     * Ally Detroit Center
+![Ally Financial HQ]({{ site.url }}/images/ally-financial-hq.png "Ally Financial HQ")
 1. Comerica Bank
 1. Huntington Bank HQ
-     * New commercial Banking HQ in Detroit will be completed in 2022
-	 * It will be a dual HQ with Columbus, OH
-	 ![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
+     * New commercial banking HQ in Detroit will be completed in 2022
+	 * Huntington will have a dual HQ with Detroit and Columbus, OH
+![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
 	 
 
 #### Cost of Living
@@ -187,9 +198,14 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 #### Fun Facts
 * Detroit is the first and only [UNESCO City of Design](https://www.architecturaldigest.com/story/detroit-unesco-city-of-design) in the USA
 * Detroit is the oldest inland metropolis in North America founded by King Louis XIV of France in 1701
-* Detroit is the only city in the USA where the four major professional sports teams play in the downtown core
+     * The Fantastic Four statues in Midtown: Antoine Laumet de la Mothe Cadillac, Father Jacques Marquette, Robert Cavalier Sieur de La Salle and Father Gabriel Richard
+	 ![Fantastic Four Statues]({{ site.url }}/images/fantastic-four-statues.png "Fantastic Four Statues")
+* Detroit is the only city in the USA where four major professional sports teams play in the downtown core -- all arenas are a few blocks apart
+![Big Four Sports Teams]({{ site.url }}/images/big-four-sports.png "Big Four Sports Teams")
 * Detroit has the second largest theater district in the USA with more than 13,000 theater seats
+![Fox Theater]({{ site.url }}/images/fox.png "Fox Theater")
 * Michigan has the most lighthouses and the longest coastline of any state in the conterminous USA
+![Big Sable Lighthouse]({{ site.url }}/images/big-sable-lighthouse.png "Big Sable Lighthouse")
 
 ### Corktown Neighborhood
 
