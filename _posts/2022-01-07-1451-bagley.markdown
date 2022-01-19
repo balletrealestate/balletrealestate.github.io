@@ -21,7 +21,7 @@ This investment is illiquid and only those persons who are able and willing to r
 1451 Bagley in Detroit is a new [Opportunity Zone (OZ)](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
 ## Project Overview
-Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a sturdy brick building constructed in the 1860s.
+Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building constructed in the 1860s.
 
 ### Planned Improvements
 * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
@@ -133,7 +133,7 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a sturdy brick building const
 <br><br>
 
 ## Opportunity Zone
-* Closing will take place in Q1 2022, so 2022 capital gains will be eligible for Opportunity Zone benefits
+Closing will take place in Q1 2022, so 2022 capital gains will be eligible for Opportunity Zone benefits.
 
 ### About Opportunity Zones
 Want to learn more about Opportunity Zones? Below are a few resources from the web.
@@ -165,7 +165,7 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 1. Ally Financial HQ
 1. Comerica Bank
 1. Huntington Bank HQ
-     * Dual HQ in Detroit and Columbus, OH
+     * Dual HQ with Detroit and Columbus, OH
 
 #### Cost of Living
 * 12.4% below national average
@@ -182,7 +182,7 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 * Detroit is the oldest inland metropolis in North America founded by King Louis XIV of France in 1701
 * Detroit is the only city in the USA where the four major professional sports teams play in the downtown core
 * Detroit has the second largest theater district in the USA with more than 13,000 theater seats
-* Michigan has the most lighthouses of any state in the USA and the second longest coast
+* Michigan has the most lighthouses of any state in the USA and the second longest coastline
 
 ### Corktown Neighborhood
 
@@ -239,6 +239,49 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 ### Location within Corktown
 
 ![Corktown Map](/images/corktown-map.png "Corktown Map")
+
+### Higher Education in the City of Detroit
+
+* [Ecumenical Theological Seminary - 1.5 miles](https://www.etseminary.edu/)
+* [Wayne State University - 2.3 miles](https://wayne.edu/)
+* [College for Creative Studies - 3.1 miles](https://www.collegeforcreativestudies.edu/)
+* [Sacred Heart Major Seminary - 4.1 miles](https://www.shms.edu/)
+* [University of Detroit Mercy - 7.5 miles](https://www.udmercy.edu/)
+* [Pensole Lewis College - 9.2 miles](https://pensole.com/pensolelewis/)
+* [University of Michigan, Detroit Center for Innovation - 1.0 miles](https://record.umich.edu/articles/detroit-center-for-innovation-to-be-built-in-the-district-detroit/)
+     * New $300MM Graduate School will break ground in 2023
+
+### Higher Education in the Greater Detroit Area
+* [University of Michigan, Dearborn - 9 miles](https://umdearborn.edu/)
+* [Lawrence Technological University - 15 miles](https://www.ltu.edu/)
+* [Madonna University - 19 miles](https://www.madonna.edu/)
+* [Cranbrook Academy of Art - 21 miles](https://cranbrookart.edu/)
+* [Oakland University - 26 miles](https://oakland.edu/)
+* [Concordia University, Ann Arbor - 34 miles](https://www.cuaa.edu/)
+* [University of Michigan, Ann Arbor - 37 miles](https://umich.edu/)
+* [University of Michigan, Flint - 60 miles](https://www.umflint.edu/)
+* [Kettering University - 61 miles](https://www.kettering.edu/)
+* [Michigan State University - 82 miles](https://msu.edu/)
+
+### Lifestyle
+
+#### Groceries
+* [Folk - 0.1 miles](https://www.folkdetroit.com/)
+* [Honey Bee Market - 0.7 miles](https://honeybeemkt.com/)
+* [Plum Market - 1.2 miles](https://www.plummarket.com/ally-detroit-center/)
+* [Whole Foods - 1.9 miles](https://www.wholefoodsmarket.com/stores/detroit)
+* [Meijer - 1.9 miles](https://www.rivertownmarket.com/)
+
+#### Healthcare
+* [Harper University Hospital - 2.2 miles](https://www.dmc.org/locations/detail/dmc-harper-university-hospital)
+* [Hutzel Women's Hospital - 2.2 miles](https://www.dmc.org/locations/detail/dmc-hutzel-womens-hospital)
+* [Children's Hospital of Michigan - 2.2 miles](https://www.childrensdmc.org/)
+* [Detroit Receiving Hospital - 2.5 miles](https://www.dmc.org/locations/detail/dmc-detroit-receiving-hospital)
+* [Henry Ford Hospital - 3.0 miles](https://www.henryford.com/)
+* [Beaumont Hospital, Grosse Pointe - 9.1 miles](https://www.beaumont.org/locations/beaumont-hospital-grosse-pointe)
+* [Sinai-Grace Hospital - 9.5 miles](https://www.dmc.org/locations/detail/dmc-sinai-grace-hospital)
+* [Ascension St. John Hospital - 11.0 miles](https://healthcare.ascension.org/locations/michigan/midet/detroit-ascension-st-john-hospital)
+* [Beaumont Hospital, Royal Oak - 15.2 miles](https://www.childrensdmc.org/)
 
 ## Partner
 
