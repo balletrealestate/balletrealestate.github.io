@@ -153,19 +153,26 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 
 #### Top 10 Private Employers
 1. General Motors Co. HQ
+     ![GM HQ]({{ site.url }}/images/gm-hq.png "GM HQ")
 1. Henry Ford Health System
 1. Illitch Companies HQ
      * Little Caesars Pizza
+	 ![Little Caesars HQ]({{ site.url }}/images/little-caesars-hq.png "Little Caesars HQ")
 1. Rock Ventures HQ
      * Rocket Mortgage
+	 ![Rocket Mortgage HQ]({{ site.url }}/images/rocket-mortgage-hq.png "Rocket Mortgage HQ")
 1. Detroit Medical Center
      * Part of Tenet Healthcare
 1. Blue Cross Blue Shield of Michigan HQ
 1. DTE Energy HQ
 1. Ally Financial HQ
+	 ![Ally Financial HQ]({{ site.url }}/images/ally-financial-hq.png "Ally Financial HQ")
 1. Comerica Bank
 1. Huntington Bank HQ
-     * Dual HQ with Columbus, OH
+     * New commercial Banking HQ in Detroit will be completed in 2022
+	 * It will be a dual HQ with Columbus, OH
+	 ![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
+	 
 
 #### Cost of Living
 * 12.4% below national average
