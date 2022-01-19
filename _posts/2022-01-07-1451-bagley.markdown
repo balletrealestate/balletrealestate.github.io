@@ -20,14 +20,11 @@ This investment is illiquid and only those persons who are able and willing to r
 
 1451 Bagley in Detroit is a new [Opportunity Zone](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment opportunity. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
-* **Location**:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
-
-* **Business Plan**:
-  * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
-  * Subdivide into 4 small retail bays on the 1st floor and 11 private office suites on the 2nd floor
-  * Take advantage of changing work trends by marketing affordable private offices toward local "remote-eligible" workers and small business owners looking for office space close to home
-
-***
+## Business Plan
+* Location:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
+* Redevelop the existing 3,000 SF building and add a 2,000 SF addition
+* Subdivide into 4 small retail bays on the 1st floor and 11 private office suites on the 2nd floor
+* Take advantage of changing work trends by marketing affordable private offices toward local "remote-eligible" workers and small business owners looking for office space close to home
 
 ## Projected Returns on $100,000 Investment
 
@@ -46,30 +43,32 @@ This investment is illiquid and only those persons who are able and willing to r
   </table>
 </div>
 
-***
+<br>
 
-* **Partner**: [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
-	* Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
-    * Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
-	* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
-	* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
+## Partner
+
+### [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
+
+* Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
+* Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
+* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
+* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
 
 ## Organizational Chart
 
 ![Organizational Chart](/images/org-chart.png)
 
-* **Capital Structure**:
-	* We plan to raise the entire $1.45m via Opportunity Zone equity (or other non-OZ equity looking to ride alongside the OZ business plan)
-	* Refinance the project a couple years later upon stabilization
-	* Hold the building for 10+ years to take advantage of Opportunity Zone benefits
+## Capital Structure
+* We plan to raise the entire $1.45m via Opportunity Zone equity (or other non-OZ equity looking to ride alongside the OZ business plan)
+* Refinance the project a couple years later upon stabilization
+* Hold the building for 10+ years to take advantage of Opportunity Zone benefits
 
-* **Fees / Promote Structure**:
-	* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
-	* The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)
+## Fees / Promote Structure
+* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
+* The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)
 	
-* **Opportunity Zone Eligibility**:
-	* We plan to set up the entities in 2021 so that anyone with 2021 capital gains has the opportunity to take advantage of this year's Opportunity Zone benefits
-	* Closing will take place in Q1 2022, so 2022 capital gains will also be eligible
+## Opportunity Zone Eligibility
+* Closing will take place in Q1 2022, so 2022 capital gains will be eligible
 
 ## Additional Information
 
