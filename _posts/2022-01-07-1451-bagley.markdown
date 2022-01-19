@@ -322,4 +322,12 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 [![Download the Investment Profile]({{ site.url }}/images/1451BagleyProfileThumbnail.png "Investment Profile")]({{ site.url }}/assets/1451BagleyProfile.pdf)  
 [Download the Investment Profile]({{ site.url }}/assets/1451BagleyProfile.pdf). 
 
+[![Download the Financial Model]({{ site.url }}/images/1451BagleyModelXLSThumbnail.png "Financial Model")]({{ site.url }}/assets/1451BagleyModel.xlsx)  
+[Download the Financial Model]({{ site.url }}/assets/1451BagleyModel.xlsx). 
+
+[![Download the Conceptual Design]({{ site.url }}/images/1451BagleyDesignThumbnail.png "Conceptual Design")]({{ site.url }}/assets/1451BagleyConceptDesign.pdf)  
+[Download the Conceptual Design]({{ site.url }}/assets/1451BagleyConceptDesign.pdf). 
+
+
+
 Please contact us if you want to invest [hello@balletrealestate.com](mailto:hello@balletrealestate.com).
