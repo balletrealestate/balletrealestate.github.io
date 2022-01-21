@@ -125,7 +125,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 
 
 
-### 10 Year Projected Returns on $100,000 Investment
+### 10 Year Projected Returns - $100,000 Investment
 
 <div class="table-container">
   <table>
@@ -147,7 +147,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 ![1451 Bagley 8](/images/1451-bagley-8.png "1451 Bagley 8")
 <br>
 
-### 10 Year Projected Returns - Project Level
+### 10 Year Projected Returns - Entire Investment
 
 <div class="table-container">
   <table>
