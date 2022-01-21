@@ -48,7 +48,7 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building c
 * Zoning: R3 (Low Density Residential)
 * Parking: Street
 
-### Building on the Success at Bagley & Trumbull 
+# Building on the Success at Bagley & Trumbull 
 
 ![Folk](/images/folk.jpeg "Folk")
 
@@ -69,7 +69,7 @@ Talent attracts talent and because of our success at Bagley & Trumbull we alread
 
 ![Spectacle Society](/images/spectacle-society.jpeg "Spectacle Society")
 
-### Building on the Success of Corktown
+# Building on the Success of Corktown
 
 Corktown real estate is hot. Over $1.5B of commercial, retail and recreational development is recently completed or under construction within 6 blocks of 1451 Bagley, including a 230 key luxury hotel, 1,036 new residential units, $1B in new office space for high tech workers and a $100MM riverfront park.
 
@@ -87,7 +87,7 @@ Directly across Trumbull Ave from 1451 Bagley, [American Community Developers](h
 # Capital Structure
 We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan
 
-### Sources
+## Sources
 
 <div class="table-container">
 <table>
@@ -100,7 +100,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 
 ![1451 Bagley 7](/images/1451-bagley-7.png "1451 Bagley 7")
 
-### Uses
+## Uses
 
 <div class="table-container">
 <table>
@@ -123,11 +123,11 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 
 ![1451 Bagley 10](/images/1451-bagley-10.png "1451 Bagley 10")
 
-### Fees / Promote Structure
+## Fees / Promote Structure
 * Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
 * The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)	
 
-### Organizational Chart
+## Organizational Chart
 
 ![Organizational Chart](/images/org-chart.png)
 
@@ -140,7 +140,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 
 
 
-### 10 Year Projected Returns - $100,000 Investment
+## 10 Year Projected Returns - $100,000 Investment
 
 <div class="table-container">
   <table>
@@ -162,7 +162,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 ![1451 Bagley 8](/images/1451-bagley-8.png "1451 Bagley 8")
 <br>
 
-### 10 Year Projected Returns - Entire Deal
+## 10 Year Projected Returns - Entire Deal
 
 <div class="table-container">
   <table>
@@ -177,10 +177,10 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 ![1451 Bagley 9](/images/1451-bagley-9.png "1451 Bagley 9")
 <br>
 
-## Opportunity Zone
+# Opportunity Zone
 Closing will take place in Q1 2022, so 2022 capital gains will be eligible for Opportunity Zone benefits.
 
-### About Opportunity Zones
+## About Opportunity Zones
 Want to learn more about Opportunity Zones? Below are a few resources from the web.
 
 #### [As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5) from Forbes
@@ -227,7 +227,6 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 ##### Huntington Bank (dual HQ to be completed in 2023)
 ![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
 	 
-
 ## Cost of Living
 * 12.4% below national average
 
@@ -317,16 +316,16 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 * [Kettering University - 61 miles](https://www.kettering.edu/)
 * [Michigan State University - 82 miles](https://msu.edu/)
 
-### Lifestyle
+## Lifestyle
 
-#### Groceries
+### Groceries
 * [Folk - 0.1 miles](https://www.folkdetroit.com/)
 * [Honey Bee Market - 0.7 miles](https://honeybeemkt.com/)
 * [Plum Market - 1.2 miles](https://www.plummarket.com/ally-detroit-center/)
 * [Whole Foods - 1.9 miles](https://www.wholefoodsmarket.com/stores/detroit)
 * [Meijer - 1.9 miles](https://www.rivertownmarket.com/)
 
-#### Healthcare
+### Healthcare
 * [Harper University Hospital - 2.2 miles](https://www.dmc.org/locations/detail/dmc-harper-university-hospital)
 * [Hutzel Women's Hospital - 2.2 miles](https://www.dmc.org/locations/detail/dmc-hutzel-womens-hospital)
 * [Children's Hospital of Michigan - 2.2 miles](https://www.childrensdmc.org/)
@@ -345,7 +344,7 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 ##### Michigan has the most lighthouses and the longest coastline of any state in the conterminous USA
 ![Big Sable Lighthouse]({{ site.url }}/images/big-sable-lighthouse.png "Big Sable Lighthouse")
 
-## Additional Information
+# Additional Information
 
 [![Download the Investment Profile]({{ site.url }}/images/1451BagleyProfileThumbnail.png "Investment Profile")]({{ site.url }}/assets/1451BagleyProfile.pdf)  
 [Download the Investment Profile]({{ site.url }}/assets/1451BagleyProfile.pdf). 
@@ -355,7 +354,6 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 
 [![Download the Conceptual Design]({{ site.url }}/images/1451BagleyDesignThumbnail.png "Conceptual Design")]({{ site.url }}/assets/1451BagleyConceptDesign.pdf)  
 [Download the Conceptual Design]({{ site.url }}/assets/1451BagleyConceptDesign.pdf). 
-
 
 
 Please contact us if you want to invest [hello@balletrealestate.com](mailto:hello@balletrealestate.com).
