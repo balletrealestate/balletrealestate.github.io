@@ -18,24 +18,25 @@ This investment is illiquid and only those persons who are able and willing to r
 
 ![1451 Bagley 1](/images/1451-bagley-1.png "1451 Bagley 1")
 
-# Investment Opportunity
+# Investment Overview
 
 1451 Bagley in Detroit is a new [Opportunity Zone (OZ)](https://www.irs.gov/credits-deductions/businesses/opportunity-zones)-eligible investment. The project is a 5,000 SF mixed-use redevelopment in the heart of Detroit's thriving [Corktown](https://en.wikipedia.org/wiki/Corktown,_Detroit) neighborhood.
 
-## Project Overview
+## Project Scope
 Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building constructed in the 1860s.
 
 ![1451 Bagley 6](/images/1451-bagley-6.png "1451 Bagley 6")
 
-### Planned Improvements
+## Planned Improvements
 * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
 * Subdivide into 4 retail bays on the 1st floor and 11 private office suites on the 2nd floor
 * Take advantage of changing work trends by marketing affordable private offices toward local "remote-eligible" workers and small business owners looking for office space close to home
 
 ![1451 Bagley Bagley Block](/images/1451-bagley-bagley-block.png "1451 Bagley Bagley Block")
 
-### Property Information
-* Location:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
+## Property Information
+![1451 Bagley Trumbull Block](/images/1451-bagley-trumbull-block.png "1451 Bagley Trumbull Block")
+* Address:  [1451 Bagley, Detroit, MI](https://goo.gl/maps/bGCL7dq9d6Ya1k3bA)
 * Year Built: 1860s
 * Style: Two Story Historic Masonry
 * Units: 
@@ -47,10 +48,29 @@ Ballpoint Bagley QOF LLC will acquire 1451 Bagley, a historic masonry building c
 * Zoning: R3 (Low Density Residential)
 * Parking: Street
 
-![1451 Bagley Trumbull Block](/images/1451-bagley-trumbull-block.png "1451 Bagley Trumbull Block")
+### Building on Success at Bagley & Trumbull 
 
-## Capital Structure
-* We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan
+![Folk](/images/folk.jpeg "Folk")
+
+The project is located in Corktown at the intersection of Bagley St. and Trumbull Ave. where over the past decade we have successfully renovated two historic structures and developed a new infill building transforming the corner across the street from the project site into a lively retail, residential and neighborhood hub.
+
+![The Bearded Lady](/images/the-bearded-lady.jpeg "The Bearded Lady")
+
+![Mink](/images/mink.jpeg "Mink")
+
+Six talented women operate a cafe, a barber shop, an oyster bar, a wellness center, a vintage store and an eyeglasses boutique at [1701 Trumbull]({% post_url 2016-06-04-1701-trumbull %}), [1705 Trumbull]({% post_url 2016-08-12-1705-trumbull %}) and [1512 Bagley]({% post_url 2021-03-12-1512-bagley %}).
+
+![Meta Physica](/images/meta-physica.jpeg "Meta Physica")
+
+![Mama Coo's](/images/mama-coos.jpeg "Mama Coo's")
+
+Talent attracts talent and because of our success at Bagley & Trumbull we already have Letters of Intent in the works to fill the four new retail units at 1451 Bagley.
+
+
+![Spectacle Society](/images/spectacle-society.jpeg "Spectacle Society")
+
+# Capital Structure
+We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan
 
 ### Sources
 
@@ -161,61 +181,52 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 #### [Opportunity Zones Frequently Asked Questions](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions) from the IRS
 [![Opportunity Zones Frequently Asked Questions]({{ site.url }}/images/irs-oz-faq.png)](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions)
 
-## Location
+# Partner
 
-### City of Detroit
+## [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
 
-#### Top 10 Private Employers
-1. General Motors Co. HQ
+![Inkwell Partners Logo](/images/logo-inkwell.png "Inkwell Partners")
+
+* Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
+* Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
+* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
+* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
+
+# Detroit
+
+## Top 10 Private Employers
+##### General Motors Co. HQ
 ![GM HQ]({{ site.url }}/images/gm-hq.png "GM HQ")
-1. Henry Ford Health System
-1. Illitch Companies HQ
-     * Little Caesars Pizza
+##### Henry Ford Health System
+##### Little Caesars Pizza HQ
 ![Little Caesars HQ]({{ site.url }}/images/little-caesars-hq.png "Little Caesars HQ")
-1. Rock Ventures HQ
-     * Rocket Mortgage
+##### Rocket Mortgage
 ![Rocket Mortgage HQ]({{ site.url }}/images/rocket-mortgage-hq.png "Rocket Mortgage HQ")
-1. Detroit Medical Center
-     * Part of Tenet Healthcare
-1. Blue Cross Blue Shield of Michigan HQ
-1. DTE Energy HQ
-1. Ally Financial HQ
-     * Ally Detroit Center
+##### Detroit Medical Center
+##### Blue Cross Blue Shield of Michigan HQ
+##### DTE Energy HQ
+##### Ally Financial HQ
 ![Ally Financial HQ]({{ site.url }}/images/ally-financial-hq.png "Ally Financial HQ")
-1. Comerica Bank
-1. Huntington Bank HQ
-     * New commercial banking HQ in Detroit will be completed in 2022
-	 * Huntington will have a dual HQ with Detroit and Columbus, OH
+##### Comerica Bank
+##### Huntington Bank Dual HQ
 ![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
 	 
 
-#### Cost of Living
+## Cost of Living
 * 12.4% below national average
 
-#### Population
+## Population
 * 640,000 in the City of Detroit
      * 27th in USA 
 * 4.4MM in the Detroit MSA 
      * 14th in USA
      * Grew 2.23% from 2010 to 2020
 
-#### Fun Facts
-* Detroit is the first and only [UNESCO City of Design](https://www.architecturaldigest.com/story/detroit-unesco-city-of-design) in the USA
-* Detroit is the oldest inland metropolis in North America founded by King Louis XIV of France in 1701
-     * The Fantastic Four statues in Midtown: Antoine Laumet de la Mothe Cadillac, Father Jacques Marquette, Robert Cavalier Sieur de La Salle and Father Gabriel Richard
-	 ![Fantastic Four Statues]({{ site.url }}/images/fantastic-four-statues.png "Fantastic Four Statues")
-* Detroit is the only city in the USA where four major professional sports teams play in the downtown core -- all arenas are a few blocks apart
-![Big Four Sports Teams]({{ site.url }}/images/big-four-sports.png "Big Four Sports Teams")
-* Detroit has the second largest theater district in the USA with more than 13,000 theater seats
-![Fox Theater]({{ site.url }}/images/fox.png "Fox Theater")
-* Michigan has the most lighthouses and the longest coastline of any state in the conterminous USA
-![Big Sable Lighthouse]({{ site.url }}/images/big-sable-lighthouse.png "Big Sable Lighthouse")
-
-### Corktown Neighborhood
+## Corktown Neighborhood
 
 With an eclectic mix of historic Victorian homes, Michigan Central Depot and new architecture, Corktown has been a magnet for talented restaurateurs, entrepreneurs and makers. The dining and drinking scene makes Corktown a lively neighborhood for visitors and residents alike.
 
-#### Top 10 Eats
+### Top 10 Eats
 1. [Folk Cafe](https://www.folkdetroit.com/)
 1. [Mink Oyster Bar](https://www.minkdetroit.com/)
 1. [Ima](https://imanoodles.com/)
@@ -227,7 +238,7 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 1. [Ottava Via](https://www.ottavaviadetroit.com/)
 1. [Mudgie's](http://mudgiesdeli.com/)
 
-#### Top 10 Drinks
+### Top 10 Drinks
 1. [Batch Brewing Company](https://www.batchbrewingcompany.com/)
 1. [Two James Distillery](https://twojames.com/)
 1. [Motor City Wines](http://motorcitywine.com/)
@@ -239,7 +250,7 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 1. [LJ's Lounge](https://www.facebook.com/LjsLounge/)
 1. [Cork & Gabel](https://www.corkandgabel.com/)
 
-#### Top 10 Shops & Services
+### Top 10 Shops & Services
 1. [Mama Coo's](https://www.instagram.com/mamacoosboutique)
 1. [Spectacle Society](https://spectaclesocietydetroit.com/)
 1. [The Bearded Lady](https://www.thebeardedladydetroit.com/)
@@ -306,16 +317,17 @@ With an eclectic mix of historic Victorian homes, Michigan Central Depot and new
 * [Detroit Receiving Hospital - 2.5 miles](https://www.dmc.org/locations/detail/dmc-detroit-receiving-hospital)
 * [Henry Ford Hospital - 3.0 miles](https://www.henryford.com/)
 
-## Partner
-
-### [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
-
-![Inkwell Partners Logo](/images/logo-inkwell.png "Inkwell Partners")
-
-* Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
-* Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
-* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
-* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
+## Fun Facts
+##### Detroit is the first and only [UNESCO City of Design](https://www.architecturaldigest.com/story/detroit-unesco-city-of-design) in the USA
+![UNESCO Cities of Design Map]({{ site.url }}/images/UNESCO.png "UNESCO Cities of Design Map")
+##### Detroit is the oldest inland metropolis in North America founded by King Louis XIV of France in 1701
+![Fantastic Four Statues]({{ site.url }}/images/fantastic-four-statues.png "Fantastic Four Statues")
+##### Detroit is the only city in the USA where four major professional sports teams play in the downtown core -- all arenas are a few blocks apart
+![Big Four Sports Teams]({{ site.url }}/images/big-four-sports.png "Big Four Sports Teams")
+##### Detroit has the second largest theater district in the USA with more than 13,000 theater seats
+![Fox Theater]({{ site.url }}/images/fox.png "Fox Theater")
+##### Michigan has the most lighthouses and the longest coastline of any state in the conterminous USA
+![Big Sable Lighthouse]({{ site.url }}/images/big-sable-lighthouse.png "Big Sable Lighthouse")
 
 ## Additional Information
 

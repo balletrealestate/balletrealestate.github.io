@@ -8,3 +8,4 @@ image:  '/images/1705-trumbull.png'
 tags:   [retail]
 menu: Properties
 ---
+{{ page.description }}

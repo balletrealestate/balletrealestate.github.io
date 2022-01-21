@@ -8,3 +8,4 @@ image:  '/images/1701-trumbull.png'
 tags:   [residential, retail]
 menu: Properties
 ---
+{{ page.description }}
