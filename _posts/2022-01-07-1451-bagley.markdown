@@ -123,27 +123,7 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
 
 ![1451 Bagley 2](/images/1451-bagley-2.png "1451 Bagley 2")
 
-### 10 Year Projected Returns - Project Level
 
-<div class="table-container">
-  <table>
-    <tr><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th><th>Year 7</th><th>Year 8</th><th>Year 9</th><th>Year 10</th></tr>
-    <tr><td>Investment Basis</td><td>$1,450,000</td><td>$1,450,000</td><td>$1,450,000</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td></tr>
-    <tr><td>Distributions from Operations</td><td>-</td><td>$27,779</td><td>$27,928</td><td>$29,624</td><td>$34,605</td><td>$36,416</td><td>$38,286</td><td>$43,747</td><td>$45,743</td><td>$47,805</td></tr>
-    <tr><td>Proceeds from Refi</td><td>-</td><td>-</td><td>$984,775</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-    <tr><td>Proceeds from Sale</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>$1,236,313</td></tr>
-    <tr><td>Ending Investment Balance</td><td>$1,450,000</td><td>$1,450,000</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>$465,225</td><td>-</td></tr>
-    <tr><td>Cash Flow</td><td>($1,450,000)</td><td>$27,779</td><td>$1,012,703</td><td>$29,624</td><td>$34,605</td><td>$36,416</td><td>$38,286</td><td>$43,747</td><td>$45,743</td><td>$1,284,118</td></tr>
-	<tr><td>$</td><td>$69,842</td><td>$2,043</td><td>$2,387</td><td>$2,511</td><td>$2,640</td><td>$3,017</td><td>$3,155</td><td>$88,560</td></tr>
-    <tr><td>Cash on Cash Returns (Operations)</td><td></td><td>1.9%</td><td>6.0%</td><td>6.4%</td><td>7.4%</td><td>7.8%</td><td>8.2%</td><td>9.4%</td><td>9.8%</td><td>10.3%</td></tr>
-    <tr><td>IRR</td><td>11.4%</td></tr>
-    <tr><td>Equity Multiple</td><td>1.76x</td></tr>
-  </table>
-</div>
-
-<br>
-![1451 Bagley 8](/images/1451-bagley-8.png "1451 Bagley 8")
-<br>
 
 ### 10 Year Projected Returns on $100,000 Investment
 
@@ -159,6 +139,22 @@ We plan to raise the entire $1.45MM via Opportunity Zone equity or other non-OZ 
     <tr><td>Cash on Cash Returns (Operations)</td><td></td><td>1.9%</td><td>6.0%</td><td>6.4%</td><td>7.4%</td><td>7.8%</td><td>8.2%</td><td>9.4%</td><td>9.8%</td><td>10.3%</td></tr>
     <tr><td>IRR</td><td>11.4%</td></tr>
     <tr><td>Equity Multiple</td><td>1.76x</td></tr>
+  </table>
+</div>
+
+
+<br>
+![1451 Bagley 8](/images/1451-bagley-8.png "1451 Bagley 8")
+<br>
+
+### 10 Year Projected Returns - Project Level
+
+<div class="table-container">
+  <table>
+    <tr><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th><th>Year 7</th><th>Year 8</th><th>Year 9</th><th>Year 10</th></tr>
+    <tr><td>Equity Cash Flow</td><td>($1,450,000)</td><td>$39,684</td><td>$1,024,672</td><td>$42,320</td><td>$49,436</td><td>$52,023</td><td>$54,695</td><td>$62,496</td><td>$65,348</td><td>$1,635,072</td></tr>
+    <tr><td>Return of Capital (ROC)</td><td>-</td><td>3.4%</td><td>8.3%</td><td>8.5%</td><td>9.0%</td><td>9.2%</td><td>9.4%</td><td>9.9%</td><td>10.1%</td><td>10.3%</td></tr>
+    <tr><td>Internal Rate of Return (IRR)</td><td>14.6%</td></tr>
   </table>
 </div>
 

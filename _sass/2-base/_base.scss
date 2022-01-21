@@ -156,6 +156,7 @@ hr {
 .table-container {
   display: block;
   max-width: 100%;
+  overflow-x: auto;
 }
 
 table {
