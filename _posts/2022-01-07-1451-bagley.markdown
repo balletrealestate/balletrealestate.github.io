@@ -198,17 +198,22 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 ##### General Motors Co. HQ
 ![GM HQ]({{ site.url }}/images/gm-hq.png "GM HQ")
 ##### Henry Ford Health System
+![Henry Ford Health System]({{site.url}}/images/henry-ford-health.png "Henry Ford Health System")
 ##### Little Caesars Pizza HQ
 ![Little Caesars HQ]({{ site.url }}/images/little-caesars-hq.png "Little Caesars HQ")
 ##### Rocket Mortgage
 ![Rocket Mortgage HQ]({{ site.url }}/images/rocket-mortgage-hq.png "Rocket Mortgage HQ")
 ##### Detroit Medical Center
+![Detroit Medical Center]({{site.url}}/images/dmc.jpeg "Detroit Medical Center")
 ##### Blue Cross Blue Shield of Michigan HQ
+![Blue Cross Blue Shield of Michigan HQ]({{site.url}}/images/bcbsm.jpeg "Blue Cross Blue Shield of Michigan HQ")
 ##### DTE Energy HQ
+![DTE Energy HQ]({{site.url}}/images/dte.jpeg "DTE Energy HQ")
 ##### Ally Financial HQ
 ![Ally Financial HQ]({{ site.url }}/images/ally-financial-hq.png "Ally Financial HQ")
 ##### Comerica Bank
-##### Huntington Bank Dual HQ
+![Comerica Bank]({{site.url}}/images/comerica.jpeg "Comerica Bank")
+##### Huntington Bank Dual HQ (to be completed in 2023)
 ![Huntington Bank HQ]({{ site.url }}/images/huntington-bank-hq.png "Huntington Bank HQ")
 	 
 
