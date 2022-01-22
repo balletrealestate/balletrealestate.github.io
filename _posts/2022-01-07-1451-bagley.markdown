@@ -70,7 +70,7 @@ Talent attracts talent. Due to our success at Bagley & Trumbull we already have 
 
 # Building on the Success of Corktown
 
-Corktown real estate is hot. Over $1.5B of commercial, retail and recreational development is recently completed or under construction within 6 blocks of 1451 Bagley, including a 230 key luxury hotel, 1,036 new residential units, $1B in new office space for high tech workers and a $100MM riverfront park.
+Corktown real estate is hot. Over $1.5B of commercial, retail and recreational development is recently completed or under construction within 6 blocks of 1451 Bagley including a 230 key luxury hotel, 1,036 new residential units, $1B in new office space for high tech workers and a $100MM riverfront park.
 
 ![Corktown Activity Map](/images/activity-map.png "Corktown Activity Map")
 
@@ -78,13 +78,13 @@ Corktown real estate is hot. Over $1.5B of commercial, retail and recreational d
 
 [![Crain's Depot](/images/crains-depot.png "Crain's Depot")](https://www.crainsdetroit.com/detroit-rising/ford-motor-co-opens-michigan-central-station-progress-update-renovations)
 
-Directly across Trumbull Avenue from 1451 Bagley, [American Community Developers](http://www.stclairconstructioncompany.com/) will build a new mixed-use, mixed-income $80MM development with 350 new residential units along with first floor retail. The new buildings are the largest component of a [Choice Neighborhoods Grant](https://www.crainsdetroit.com/real-estate/detroit-awarded-30-million-grant-affordable-housing-around-corktown) project that will bring more than $200MM in new investment to Corktown.
+Directly across Trumbull Avenue from 1451 Bagley, [American Community Developers](http://www.stclairconstructioncompany.com/) will build a new mixed-use, mixed-income $80MM development with 350 new residential units and first floor retail. The new buildings are the largest component of a [Choice Neighborhoods Grant](https://www.crainsdetroit.com/real-estate/detroit-awarded-30-million-grant-affordable-housing-around-corktown) project that will bring more than $200MM in new investment to Corktown.
 
 [![Crain's Grant](/images/crains-grant.png "Crain's Grant")](https://www.crainsdetroit.com/real-estate/detroit-awarded-30-million-grant-affordable-housing-around-corktown)
 
 
 # Capital Structure
-We plan to raise the entire $1.45MM for 1451 Bagley via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan
+We plan to raise the entire $1.45MM for 1451 Bagley via Opportunity Zone equity or other non-OZ equity looking to ride alongside the OZ business plan.
 
 ## Sources
 
@@ -114,21 +114,22 @@ We plan to raise the entire $1.45MM for 1451 Bagley via Opportunity Zone equity 
 
 ## Equity
 
-* Equity investors will be members of Ballpoint Bagley QOF LLC.
+* Equity investors will be members of Ballpoint Bagley QOF LLC
 * Ballpoint Partners LLC will manage the company and oversee management of the property. Ballpoint Partners LLC is associated with:
      * Devon Caldwell and Ryan Zampardo of Inkwell Partners 
 	 * Brian Mulloy of Ballet Real Estate
-* Ballpoint Bagley QOF LLC will allocate equity to Ballpoint Bagley LLC for the purchase and improvements of 1451 Bagley.
-
-![1451 Bagley 10](/images/1451-bagley-10.png "1451 Bagley 10")
-
-## Fees / Promote Structure
-* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
-* The promote structure would be a 70/30 limited partner (LP)/general partner (GP) profit split up to a 15% IRR, 60/40 above a 15%, and 50/50 above a 20% (for capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split kicks in)	
+* Ballpoint Bagley QOF LLC will allocate equity to Ballpoint Bagley LLC for the purchase and improvements of 1451 Bagley
 
 ## Organizational Chart
 
 ![Organizational Chart](/images/org-chart.png)
+
+## Fees and Promote Structure
+* Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
+* The promote structure will be a 70/30 limited partner (LP) / general partner (GP) profit split up to a 15% IRR, 60/40 above a 15% and 50/50 above a 20%
+* For capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split begins
+
+![1451 Bagley 10](/images/1451-bagley-10.png "1451 Bagley 10")
 
 ## Summary Return Projections
 
@@ -180,7 +181,7 @@ We plan to raise the entire $1.45MM for 1451 Bagley via Opportunity Zone equity 
 Closing will take place in Q1 2022, so 2022 capital gains will be eligible for Opportunity Zone benefits.
 
 ## About Opportunity Zones
-Want to learn more about Opportunity Zones? Below are a few resources from the web.
+Want to learn more about Opportunity Zones? A few resources from the web are below.
 
 #### [As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5) from Forbes
 [![As Opportunity Zone Window Closes, The Case For Investment Is Stronger Than Ever]({{ site.url }}/images/forbes-oz.png)](https://www.forbes.com/sites/forbesbizcouncil/2021/10/05/as-opportunity-zone-window-closes-the-case-for-investment-is-stronger-than-ever/?sh=4dbfbc1c55f5)
@@ -238,7 +239,7 @@ Want to learn more about Opportunity Zones? Below are a few resources from the w
 
 ## Corktown Neighborhood
 
-With an eclectic mix of historic Victorian homes, Michigan Central Depot and new architecture, Corktown has been a magnet for talented restaurateurs, entrepreneurs and makers. The dining and drinking scene makes Corktown a lively neighborhood for visitors and residents alike.
+With an eclectic mix of historic Victorian homes, historic commercial buildings like Michigan Central Depot and new infill architecture, Corktown has been a magnet for talented restaurateurs, entrepreneurs and makers. The dining and drinking scene makes Corktown a lively neighborhood for visitors and residents alike.
 
 ### Top 10 Eats
 1. [Folk Cafe](https://www.folkdetroit.com/)
