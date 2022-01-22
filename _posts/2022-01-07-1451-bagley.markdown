@@ -194,10 +194,8 @@ Want to learn more about Opportunity Zones? Here are a few resources from the we
 #### [Opportunity Zones Frequently Asked Questions](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions) from the IRS
 [![Opportunity Zones Frequently Asked Questions]({{ site.url }}/images/irs-oz-faq.png)](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions)
 
-# Project Partner
-
-## [Inkwell Partners LLC](https://www.inkwelldev.com/)
-### Devon Caldwell and Ryan Zampardo
+# [Inkwell Partners LLC](https://www.inkwelldev.com/)
+## Devon Caldwell and Ryan Zampardo
 
 ![Inkwell Partners Logo](/images/logo-inkwell.png "Inkwell Partners")
 
