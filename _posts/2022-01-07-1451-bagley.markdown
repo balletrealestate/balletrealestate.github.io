@@ -32,7 +32,7 @@ This investment is illiquid and only those persons who are able and willing to r
 ## Planned Improvements
 * Redevelop the existing 3,000 SF building and add a 2,000 SF addition
 * Subdivide into 4 retail bays on the 1st floor and 11 private office suites on the 2nd floor
-* Take advantage of changing work trends by marketing affordable private offices toward local "remote-eligible" workers and small business owners looking for office space close to home
+* Take advantage of changing work trends by marketing affordable private offices toward local remote-eligible workers and small business owners looking for office space close to home
 
 ![1451 Bagley Bagley Block](/images/1451-bagley-bagley-block.png "1451 Bagley Bagley Block")
 
@@ -129,7 +129,7 @@ We plan to raise the entire $1.45MM for 1451 Bagley via Opportunity Zone equity 
 ## Fees and Promote Structure
 * Given the new product type for us with the small office suites, we've decided to not take any upfront development fees on this deal to demonstrate incentive alignment
 * The promote structure will be a 70/30 limited partner (LP) / general partner (GP) profit split up to a 15% IRR, 60/40 above a 15% and 50/50 above a 20%
-* For capital events, 100% of the capital would go to LPs until their initial capital is repaid before the profit split begins
+* For capital events, 100% of the capital will go to LPs until their initial capital is repaid before the profit split begins
 
 ![1451 Bagley 10](/images/1451-bagley-10.png "1451 Bagley 10")
 
@@ -194,16 +194,19 @@ Want to learn more about Opportunity Zones? Here are a few resources from the we
 #### [Opportunity Zones Frequently Asked Questions](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions) from the IRS
 [![Opportunity Zones Frequently Asked Questions]({{ site.url }}/images/irs-oz-faq.png)](https://www.irs.gov/credits-deductions/opportunity-zones-frequently-asked-questions)
 
-# Partner
+# Project Partner
 
-## [Inkwell Partners LLC](https://www.inkwelldev.com/) // Devon Caldwell and Ryan Zampardo
+## [Inkwell Partners LLC](https://www.inkwelldev.com/)
+### Devon Caldwell and Ryan Zampardo
 
 ![Inkwell Partners Logo](/images/logo-inkwell.png "Inkwell Partners")
 
 * Inkwell Partners has successfully acquired and developed high-quality properties at attainable price points throughout Detroit
 * Their disciplined approach allows them to effectively manage risk while providing long term growth for investors and neighbors alike
-* Ballet already owns the building at 1451 Bagley and we were interested in finding a partner to assist with financing and developing the site, which is how Inkwell came to be involved
-* Inkwell and Ballet would purchase the building via a new company and Ballet would remain a sponsor alongside Inkwell
+* Ballet already owns the building at 1451 Bagley
+* We are partnering with Inkwell to assist with financing and development of the site
+* Inkwell and Ballet will purchase the building via the new property company
+* Ballet will remain a sponsor alongside Inkwell
 
 # Detroit
 
