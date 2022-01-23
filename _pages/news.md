@@ -14,6 +14,14 @@ menu: In The News
 <br>
 <br>
 
+## [Narrow mixed-use building completed in Corktown](https://urbanize.city/detroit/post/narrow-mixed-use-building-completed-corktown)
+[![Urbanize Detroit](/images/news/02142021.jpeg "Urbanize Detroit")](https://urbanize.city/detroit/post/narrow-mixed-use-building-completed-corktown)
+### [Urbanize Detroit](https://urbanize.city/detroit/post/narrow-mixed-use-building-completed-corktown) / February 14, 2021
+#### [read more >](https://urbanize.city/detroit/post/narrow-mixed-use-building-completed-corktown)
+
+<br>
+<br>
+
 ## [Revived storefronts brighten up a Corktown corner](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 [![Curbed Detroit](/images/news/08232018.jpeg "Curbed Detroit")](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 ### [Curbed Detroit](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull) / August 23, 2018
@@ -26,6 +34,14 @@ menu: In The News
 [![Curbed Detroit](/images/news/09072017.jpeg "Curbed Detroit")](https://detroit.curbed.com/2017/9/7/16267458/women-owned-businesses-corktown)
 ### [Curbed Detroit](https://detroit.curbed.com/2017/9/7/16267458/women-owned-businesses-corktown) / September 7, 2017
 #### [read more >](https://detroit.curbed.com/2017/9/7/16267458/women-owned-businesses-corktown)
+
+<br>
+<br>
+
+## [Brian Mulloy turns TEDxDetroit 2011 ties into social, work opportunities](https://www.crainsdetroit.com/article/20160927/BLOG104/160929842/brian-mulloy-turns-tedxdetroit-2011-ties-into-social-work)
+[![Crain's Detroit Business](/images/news/09272016.jpeg "Crain's Detroit Business")](https://www.crainsdetroit.com/article/20160927/BLOG104/160929842/brian-mulloy-turns-tedxdetroit-2011-ties-into-social-work)
+### [Crain's Detroit Business](https://www.crainsdetroit.com/article/20160927/BLOG104/160929842/brian-mulloy-turns-tedxdetroit-2011-ties-into-social-work) / September 27, 2016
+#### [read more >](https://www.crainsdetroit.com/article/20160927/BLOG104/160929842/brian-mulloy-turns-tedxdetroit-2011-ties-into-social-work)
 
 <br>
 <br>
@@ -46,26 +62,10 @@ menu: In The News
 <br>
 <br>
 
-## []()
-[![](/images/news/.jpeg "")]()
-### []() / 
-#### [read more >]()
-
-<br>
-<br>
-
-## []()
-[![](/images/news/.jpeg "")]()
-### []() / 
-#### [read more >]()
-
-<br>
-<br>
-
-## []()
-[![](/images/news/.jpeg "")]()
-### []() / 
-#### [read more >]()
+## [Sneak Peek at the Corktown Historical Home and Garden Tour](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
+[![Curbed Detroit](/images/news/06012016.jpeg "Curbed Detroit")](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
+### [Curbed Detroit](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour) / June 1, 2016 
+#### [read more >](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
 
 <br>
 <br>
