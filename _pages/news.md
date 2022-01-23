@@ -49,14 +49,6 @@ menu: In The News
 <br>
 <br>
 
-## [Four projects in Detroit's Corktown could add specialty hot dogs, art gallery, bar, apartments and repurposed industrial items](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
-[![mlive](/images/news/05152014.jpeg "mlive")](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
-### [mlive](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html) / April 3, 2019
-#### [read more >](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
-
-<br>
-<br>
-
 ## [Revived storefronts brighten up a Corktown corner](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 [![Curbed Detroit](/images/news/08232018.jpeg "Curbed Detroit")](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 ### [Curbed Detroit](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull) / August 23, 2018
