@@ -15,8 +15,8 @@ menu__settings:
       url: '/properties/'
 #    - title: 'Art'
 #      url: '/portfolio/'
-#    - title: 'In The News'
-#      url: '/press/'
+    - title: 'In The News'
+      url: '/news/'
     - title: 'Contact'
       url: '/contact/'
 
