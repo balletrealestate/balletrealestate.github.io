@@ -4,5 +4,31 @@ title: Contact Us
 permalink: /contact/
 menu: Contact
 ---
-<div>phone: <a href="tel:+1-313-718-1701">+1.313.718.1701</a></div>
-<div>email: <a href="mailto:hello@balletrealestate.com">hello@balletrealestate.com</a></div>
+
+<h2>Ballet Real Estate</h2>
+<div>1701 Trumbull Avenue, Suite 1</div>
+<div>Detroit, MI 48216</div>
+<div><a href="tel:+1-313-718-1701">+1.313.718.1701</a></div>
+<div><a href="mailto:hello@balletrealestate.com">hello@balletrealestate.com</a></div>
+
+<br/>
+
+<div>Follow us on social media:</div>
+
+{% if site.data.settings.social %}
+{% for social in site.data.settings.social %}
+<div>
+  <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link"><i class="ion {{social.icon}}" style="color: {{social.color}};"></i> {{social.label}}</a>
+</div>
+{% endfor %}
+{% endif %}
+
+<br/><br/>
+
+<div class="page">
+  <img class="no-lightense" alt="Ballerina Art by Sydney James" data-ll-status="loaded" src="/images/sydney-james.png">
+</div>
+<blockquote>
+  <p>{{ site.data.settings.hero.hero__quote }}</p>
+  <p><cite>{{ site.data.settings.hero.hero__quote_author }}</cite></p>
+</blockquote>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1705 Trumbull"
+title: "1705 Trumbull: sidewalk shops and walk-up retail in 1920s building"
 description: "In 2016 we renovated a 1920s brick and block building bringing two retail units to the sidewalk, a walk-up retail unit to the second floor and a residential cedar deck to the rooftop."
 handle: "1705 Trumbull"
 date:   2016-08-12 16:48:48 +0500
