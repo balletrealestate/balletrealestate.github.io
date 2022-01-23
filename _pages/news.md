@@ -41,8 +41,16 @@ menu: In The News
 <br>
 <br>
 
+## [Restaurant Walk-Up Windows Are Here to Stay](https://detroit.eater.com/2020/7/22/21334029/detroit-restaurants-coffee-shops-walk-up-window-carryout-design-trend-coronavirus)
+[![Eater Detroit](/images/news/07222020.jpeg "Eater Detroit")](https://detroit.eater.com/2020/7/22/21334029/detroit-restaurants-coffee-shops-walk-up-window-carryout-design-trend-coronavirus)
+### [Eater Detroit](https://detroit.eater.com/2020/7/22/21334029/detroit-restaurants-coffee-shops-walk-up-window-carryout-design-trend-coronavirus) / July 22, 2020
+#### [read more >](https://detroit.eater.com/2020/7/22/21334029/detroit-restaurants-coffee-shops-walk-up-window-carryout-design-trend-coronavirus)
+
+<br>
+<br>
+
 ## [Four projects in Detroit's Corktown could add specialty hot dogs, art gallery, bar, apartments and repurposed industrial items](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
-[![mlive](/images/news/04032019.jpeg "mlive")](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+[![mlive](/images/news/05152014.jpeg "mlive")](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
 ### [mlive](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html) / April 3, 2019
 #### [read more >](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
 
@@ -101,3 +109,11 @@ menu: In The News
 [![Curbed Detroit](/images/news/06012016.jpeg "Curbed Detroit")](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
 ### [Curbed Detroit](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour) / June 1, 2016 
 #### [read more >](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
+
+<br>
+<br>
+
+## [Four projects in Detroit's Corktown could add specialty hot dogs, art gallery, bar, apartments and repurposed industrial items](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+[![mlive](/images/news/05152014.jpeg "mlive")](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+### [mlive](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html) / May 15, 2014
+#### [read more >](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
