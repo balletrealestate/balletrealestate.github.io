@@ -6,6 +6,14 @@ image: /images/news.jpeg
 menu: In The News
 ---
 
+## [Real Estate Insider: Hello Records building sold](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale)
+[![Crain's Detroit Business](/images/news/05252021.jpeg "Crain's Detroit Business")](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale)
+### [Crain's Detroit Business](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale) / May 25, 2021
+#### [read more >](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale)
+
+<br>
+<br>
+
 ## [Putting The “City” Back In The Motor City By Supporting Small Developers w/ Brian Mulloy](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/)
 [![Daily Detroit](/images/news/03252021.jpeg "Daily Detroit")](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/)
 ### [Daily Detroit](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/) / March 25, 2021
@@ -22,10 +30,26 @@ menu: In The News
 <br>
 <br>
 
+## [Four projects in Detroit's Corktown could add specialty hot dogs, art gallery, bar, apartments and repurposed industrial items](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+[![mlive](/images/news/04032019.jpeg "mlive")](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+### [mlive](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html) / April 3, 2019
+#### [read more >](https://www.mlive.com/business/detroit/2014/05/four_projects_in_detroits_cork.html)
+
+<br>
+<br>
+
 ## [Revived storefronts brighten up a Corktown corner](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 [![Curbed Detroit](/images/news/08232018.jpeg "Curbed Detroit")](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
 ### [Curbed Detroit](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull) / August 23, 2018
 #### [read more >](https://detroit.curbed.com/2018/8/23/17760618/corktown-storefront-renovation-bagley-trumbull)
+
+<br>
+<br>
+
+## [Bold hopes and dreams define train station's future](https://www.detroitnews.com/story/business/autos/2018/06/19/michigan-central-depot-public-reaction/715178002/)
+[![The Detroit News](/images/news/06192018.jpeg "The Detroit News")](https://www.detroitnews.com/story/business/autos/2018/06/19/michigan-central-depot-public-reaction/715178002/)
+### [The Detroit News](https://www.detroitnews.com/story/business/autos/2018/06/19/michigan-central-depot-public-reaction/715178002/) / June 19, 2018
+#### [read more >](https://www.detroitnews.com/story/business/autos/2018/06/19/michigan-central-depot-public-reaction/715178002/)
 
 <br>
 <br>
@@ -66,22 +90,3 @@ menu: In The News
 [![Curbed Detroit](/images/news/06012016.jpeg "Curbed Detroit")](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
 ### [Curbed Detroit](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour) / June 1, 2016 
 #### [read more >](https://detroit.curbed.com/2016/6/1/11823278/sneak-peek-corktown-historical-home-garden-tour)
-
-<br>
-<br>
-
-## []()
-[![](/images/news/.jpeg "")]()
-### []() / 
-#### [read more >]()
-
-<br>
-<br>
-
-## []()
-[![](/images/news/.jpeg "")]()
-### []() / 
-#### [read more >]()
-
-<br>
-<br>
