@@ -6,6 +6,9 @@ image: /images/news.jpeg
 menu: In The News
 ---
 
+<br>
+<br>
+
 ## [Real Estate Insider: Hello Records building sold](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale)
 [![Crain's Detroit Business](/images/news/05252021.jpeg "Crain's Detroit Business")](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale)
 ### [Crain's Detroit Business](https://www.crainsdetroit.com/voices-kirk-pinho/real-estate-insider-affordable-senior-housing-complex-across-belle-isle-sale) / May 25, 2021
@@ -18,6 +21,14 @@ menu: In The News
 [![Daily Detroit](/images/news/03252021.jpeg "Daily Detroit")](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/)
 ### [Daily Detroit](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/) / March 25, 2021
 #### [read more >](http://www.dailydetroit.com/2021/03/25/putting-the-city-back-in-the-motor-city-by-supporting-small-developers-w-brian-mulloy/)
+
+<br>
+<br>
+
+## [A Cozy Corktown ‘Penthouse’ Features the Chicest Work-Play Space](https://www.hourdetroit.com/home-living/a-cozy-corktown-penthouse-features-the-chicest-work-play-space/)
+[![Hour Detroit](/images/news/03052021.jpeg "Hour Detroit")](https://www.hourdetroit.com/home-living/a-cozy-corktown-penthouse-features-the-chicest-work-play-space/)
+### [Hour Detroit](https://www.hourdetroit.com/home-living/a-cozy-corktown-penthouse-features-the-chicest-work-play-space/) / March 5, 2021
+#### [read more >](https://www.hourdetroit.com/home-living/a-cozy-corktown-penthouse-features-the-chicest-work-play-space/)
 
 <br>
 <br>
